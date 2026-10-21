@@ -1,0 +1,329 @@
+{
+  "project": "锦禾 / 解压助手",
+  "archive_tag": "versions-2026-10-21",
+  "versions": [
+    {
+      "version": "1.6",
+      "source": "Jinhe-v1.6-source.zip",
+      "source_sha256": "c31ac4c665b0404cd67dbd64c939702a270a48d68a0dc6c6fa33e1b4f5d1d039",
+      "source_files": 52,
+      "apk": null
+    },
+    {
+      "version": "3.14",
+      "source": "Jinhe-v3.14-source.zip",
+      "source_sha256": "aa97123a50e9e7d1c0363c7b43cf6e730ec65ab1df66df41c1b1ba206aaf2cfd",
+      "source_files": 221,
+      "apk": "Jinhe-v3.14.apk",
+      "apk_sha256": "460fe7226c5ff83e1c61740f289a4aaf76a58ce3fe7d3c99df597850d8ff12e2",
+      "version_code": 32
+    },
+    {
+      "version": "3.14.1",
+      "source": "Jinhe-v3.14.1-source.zip",
+      "source_sha256": "9746d60a119ef8d5a2ebd7be3505a03066f7b295277f34d4aa4588ac67d5fac3",
+      "source_files": 221,
+      "apk": "Jinhe-v3.14.1.apk",
+      "apk_sha256": "bb78f5740d2b7a25ba5f485ae4ee52e9d0186f1cdc049fc4e3c19cd60595e7a0",
+      "version_code": 33
+    },
+    {
+      "version": "3.15",
+      "source": "Jinhe-v3.15-source.zip",
+      "source_sha256": "e4bf12736d3cf2413aad25ce9b76d4546cfeaacf37c99a4617b5de7073d32340",
+      "source_files": 222,
+      "apk": "Jinhe-v3.15.apk",
+      "apk_sha256": "d706231028a1378774c7f05b14f8498ba7a700edda33801479dc553e7a71dd8b",
+      "version_code": 34
+    },
+    {
+      "version": "3.16",
+      "source": "Jinhe-v3.16-source.zip",
+      "source_sha256": "78f4392132b19f8e6be6f3ffe93cfe68219951158fbfe35db027e04253d85718",
+      "source_files": 224,
+      "apk": "Jinhe-v3.16.apk",
+      "apk_sha256": "9f37a146b2cf467db2808d1e827e1a5291f4a0927973e542efc2c148e109cefa",
+      "version_code": 35
+    },
+    {
+      "version": "3.17",
+      "source": "Jinhe-v3.17-source.zip",
+      "source_sha256": "3431a2eff10a65db62152fe4cf841237e62a15e67e792b837c423ae6dc4f5e05",
+      "source_files": 225,
+      "apk": "Jinhe-v3.17.apk",
+      "apk_sha256": "96e82965eb852a6ba7dbe62da222a2fbf51c6c9f26548b44db1ca8c862015d32",
+      "version_code": 36
+    },
+    {
+      "version": "3.18",
+      "source": "Jinhe-v3.18-source.zip",
+      "source_sha256": "7167af89e32ef48043dec5a7060d3d965b450d5eb9bf3a649c18cfd12172353e",
+      "source_files": 225,
+      "apk": "Jinhe-v3.18.apk",
+      "apk_sha256": "c98dbb5c8cbbb82fa008083151aa0860c73340a45419062581e9c90b069641a7",
+      "version_code": 37
+    },
+    {
+      "version": "3.18.1",
+      "source": "Jinhe-v3.18.1-source.zip",
+      "source_sha256": "5d7dbcfbb746349c597048fe97085610059b0102ca4d8434b3b306cb84bdadb0",
+      "source_files": 225,
+      "apk": "Jinhe-v3.18.1.apk",
+      "apk_sha256": "ac732caf085b0c5047217648f332a9edd8a372f287a647466839e7ba8095869c",
+      "version_code": 38
+    },
+    {
+      "version": "3.18.2",
+      "source": "Jinhe-v3.18.2-source.zip",
+      "source_sha256": "cb93adbc4548f5f364b7923f2c34b52fe6631f09891304cd6ec7cf62b2875427",
+      "source_files": 225,
+      "apk": "Jinhe-v3.18.2.apk",
+      "apk_sha256": "50f0567f8399de7c46c6b27e3dfa963b3734a7cdd5d8577335be086871795f75",
+      "version_code": 39
+    },
+    {
+      "version": "3.19",
+      "source": "Jinhe-v3.19-source.zip",
+      "source_sha256": "9f05f2c29573f6f30e4f5c0f412d81ebbbb2bd65fb410757c9b98533e04cf0e6",
+      "source_files": 226,
+      "apk": "Jinhe-v3.19.apk",
+      "apk_sha256": "9e32ef3d1c98b792b6341b82fd07ce1972c5b3e2f91b046587f80ec187b1467c",
+      "version_code": 40
+    },
+    {
+      "version": "3.19.1",
+      "source": "Jinhe-v3.19.1-source.zip",
+      "source_sha256": "b0f6cf752e3ffd6e5a9dd06c7cff796edb4a75cc251be9983481aca737cb2a20",
+      "source_files": 227,
+      "apk": "Jinhe-v3.19.1.apk",
+      "apk_sha256": "62ea6990be81f92c50714881c2093ba171ee9bc17108dffecc2578596fa607c6",
+      "version_code": 41
+    },
+    {
+      "version": "3.20",
+      "source": "Jinhe-v3.20-source.zip",
+      "source_sha256": "f30023ad4727d96b0cfa2f381f08e3a589c4dbafdf4884e32a62006e9ecff75d",
+      "source_files": 235,
+      "apk": "Jinhe-v3.20.apk",
+      "apk_sha256": "28a366170617f4307a804d7073f9f5ce2cba33881afdafc5579042b60d9569a5",
+      "version_code": 42
+    },
+    {
+      "version": "3.21",
+      "source": "Jinhe-v3.21-source.zip",
+      "source_sha256": "cc55f29475c0eebd02d1036bd1951a676f7aef7e0aa7e32d7097fbf72c3bfa2f",
+      "source_files": 240,
+      "apk": "Jinhe-v3.21.apk",
+      "apk_sha256": "fb7ef4ba18644341fa44dade6bbd8aa69c7a17b142305af4431150ead4939d67",
+      "version_code": 43
+    },
+    {
+      "version": "3.22",
+      "source": "Jinhe-v3.22-source.zip",
+      "source_sha256": "af982b4f381a5189eeeeec5c344d43b1a909e7e3612d8a7204ebd2d676bbec57",
+      "source_files": 240,
+      "apk": "Jinhe-v3.22.apk",
+      "apk_sha256": "03951a6f2303b9617b2ae5d9cec7f0874d66c81961043d3332617bfc2dd0a311",
+      "version_code": 44
+    },
+    {
+      "version": "3.22.1",
+      "source": "Jinhe-v3.22.1-source.zip",
+      "source_sha256": "b034ab762c823cedfb53e9cabac882e9acdefdb9d0408a38d5cda36454bef126",
+      "source_files": 240,
+      "apk": "Jinhe-v3.22.1.apk",
+      "apk_sha256": "dd6f65a741ad28b73aa06a3d884b2662b07059923466bae1af3afe82ab6a609d",
+      "version_code": 45
+    },
+    {
+      "version": "3.23",
+      "source": "Jinhe-v3.23-source.zip",
+      "source_sha256": "3a557d8a6f697536556e0f3235e63d432e303d21077343d8549a0ed324913f30",
+      "source_files": 240,
+      "apk": "Jinhe-v3.23.apk",
+      "apk_sha256": "479bd28547add5b97d2f72fe7c64103b6cac7c52fcc3c74bb7a667fe7e39ee6f",
+      "version_code": 46
+    },
+    {
+      "version": "3.24",
+      "source": "Jinhe-v3.24-source.zip",
+      "source_sha256": "47ee6d437bfb93596e799cdcb23829d3058888250779dcbbe344315cf221079f",
+      "source_files": 240,
+      "apk": "Jinhe-v3.24.apk",
+      "apk_sha256": "c66d11ebe3b6bbb104ce262beaee09ae807bd30ab3ef64dd2eee7ee3c85b37ef",
+      "version_code": 47
+    },
+    {
+      "version": "3.25",
+      "source": "Jinhe-v3.25-source.zip",
+      "source_sha256": "1419b149da2a6d1eff5cca32b1f5f3010bb54d2f552c64bebff9c26da6ff3488",
+      "source_files": 240,
+      "apk": "Jinhe-v3.25.apk",
+      "apk_sha256": "04e5eb1ae8dc9344f0535ca3b4dedcc44df3bcc34c1e1dec8353ab3458c248c0",
+      "version_code": 48
+    },
+    {
+      "version": "3.26",
+      "source": "Jinhe-v3.26-source.zip",
+      "source_sha256": "43511b5ca7cbb946e54796da6cc0f1928fa56dad940f1f2f7e196230e7f6060d",
+      "source_files": 241,
+      "apk": "Jinhe-v3.26.apk",
+      "apk_sha256": "07c76d8809b39719c4f72dc387b201a079a36698189ea9c03ccd0f381c64c348",
+      "version_code": 49
+    },
+    {
+      "version": "3.27",
+      "source": "Jinhe-v3.27-source.zip",
+      "source_sha256": "22314c45fbf199853b2cc28f229c82a0ec1bdf2aa4cc14d4d1bdff7f41ce0e2a",
+      "source_files": 241,
+      "apk": "Jinhe-v3.27.apk",
+      "apk_sha256": "ceb50087bdb6b1486d67aba156b99e066d2a07b63cd18f1e7620c03c7fe23aa4",
+      "version_code": 50
+    },
+    {
+      "version": "3.28",
+      "source": "Jinhe-v3.28-source.zip",
+      "source_sha256": "f0bc7541eca4e290a127d53ccd03c1f156beaf4111c4376f1d5c5a53c39246c5",
+      "source_files": 241,
+      "apk": "Jinhe-v3.28.apk",
+      "apk_sha256": "d4f8c442e808e8d9777e19e4e21c8a4f47cddf832ca25a1eeb9d094fecded756",
+      "version_code": 51
+    },
+    {
+      "version": "3.28.1",
+      "source": "Jinhe-v3.28.1-source.zip",
+      "source_sha256": "64482a33164bfb7bbc5a2ad2dbdb796c6b85dd86c465ddcba3c9c69bd7821fa0",
+      "source_files": 241,
+      "apk": "Jinhe-v3.28.1.apk",
+      "apk_sha256": "6303b31a45abbaa7c9b699c3d7abb50fb742864a5eadf3cf0ae8401198d204de",
+      "version_code": 52
+    },
+    {
+      "version": "3.29",
+      "source": "Jinhe-v3.29-source.zip",
+      "source_sha256": "d2fb2fe482034c0c8d8ebad407d1966f9c1779431adae2ebfd1a0b616adc3190",
+      "source_files": 241,
+      "apk": "Jinhe-v3.29.apk",
+      "apk_sha256": "e549f97e3bab073b500a677befdaa0fcfa96fa0298ea218fb86d64bb3c8133a8",
+      "version_code": 53
+    },
+    {
+      "version": "3.29.1",
+      "source": "Jinhe-v3.29.1-source.zip",
+      "source_sha256": "aac76fc5636e41305956184c975fc69f47f68b32ae43dad5de46c8cf9c6c0bf8",
+      "source_files": 241,
+      "apk": "Jinhe-v3.29.1.apk",
+      "apk_sha256": "f9b5c013498f69c6203693f3a5ca43e7576124ba1b429fd673ad421d2e81f6b4",
+      "version_code": 54
+    },
+    {
+      "version": "3.29.2",
+      "source": "Jinhe-v3.29.2-source.zip",
+      "source_sha256": "9ad3306bef8946b5409954562c2cb58a39d8071d53db6711155daa7a3fdf160b",
+      "source_files": 241,
+      "apk": "Jinhe-v3.29.2.apk",
+      "apk_sha256": "100fdfc00a0a9d4d1d44f146ab0ea4acd2a744594782c6c15ab187379d856eb6",
+      "version_code": 55
+    },
+    {
+      "version": "3.29.3",
+      "source": "Jinhe-v3.29.3-source.zip",
+      "source_sha256": "5d897d84858cb91c64af94bd7451d1ae1cedb1ec6a75eb8d02f5f6ddcffc7b5e",
+      "source_files": 241,
+      "apk": "Jinhe-v3.29.3.apk",
+      "apk_sha256": "cd94cb5604ba660e0c356e6137f69a017bd384415f82b86c25771f3200b0e2dc",
+      "version_code": 56
+    },
+    {
+      "version": "3.30",
+      "source": "Jinhe-v3.30-source.zip",
+      "source_sha256": "556f1e03dfa889122332089bcee629d5addcb4541d96946f1ddaf966d51e777d",
+      "source_files": 243,
+      "apk": "Jinhe-v3.30.apk",
+      "apk_sha256": "d3d53f5b8a25682307ddb9a0404e97b8c327077a9c35fa15a5c4a9e32028e7c7",
+      "version_code": 57
+    },
+    {
+      "version": "3.31",
+      "source": "Jinhe-v3.31-source.zip",
+      "source_sha256": "7852c90d0bb353b8d660c43b6867b54a135adcb82a938a17384cee3a7902b6d9",
+      "source_files": 259,
+      "apk": "Jinhe-v3.31.apk",
+      "apk_sha256": "fda30a4d1812e7a7cf0402d5c07778c7fd2d3a90195cce87945dd9fc6155ebbd",
+      "version_code": 58
+    },
+    {
+      "version": "3.32",
+      "source": "Jinhe-v3.32-source.zip",
+      "source_sha256": "3d35c63ca8b5b394d9b0f294112de6827d2a38869fa4304cf68c0f16a6612190",
+      "source_files": 261,
+      "apk": "Jinhe-v3.32.apk",
+      "apk_sha256": "c81c9b9f897268e89615c10e53cf151583a8191db1ec272e6a3ae796688b5b56",
+      "version_code": 59
+    },
+    {
+      "version": "3.33",
+      "source": "Jinhe-v3.33-source.zip",
+      "source_sha256": "86773d0edcc6da53ed5d86686446f721e4387f867cd8cb16944ae447cad0a4a0",
+      "source_files": 263,
+      "apk": "Jinhe-v3.33.apk",
+      "apk_sha256": "8c4d09e3ebe2831f8d55dfb47e2d2037face94d9cb0d53af82216262fa1621b7",
+      "version_code": 60
+    },
+    {
+      "version": "3.34",
+      "source": "Jinhe-v3.34-source.zip",
+      "source_sha256": "f3c09d8986bcb7da047d7f93f5e5afd05ff5ba4b789c86a0a3d0cdb004cab4a5",
+      "source_files": 297,
+      "apk": "Jinhe-v3.34.apk",
+      "apk_sha256": "9cb8505687ced9d914e2c0f3c355f7fd75e516ea48d8d867c5a8d6195f5c53fb",
+      "version_code": 61
+    },
+    {
+      "version": "3.35",
+      "source": "Jinhe-v3.35-source.zip",
+      "source_sha256": "4fddbcfff1c07b6c3964ffb48488bd03b17767656ea36f5eb5e009fa80d1e1f3",
+      "source_files": 297,
+      "apk": "Jinhe-v3.35.apk",
+      "apk_sha256": "412c99adca9953f990fc0c41c543028275b604978dd5437bcf429e278a990bc9",
+      "version_code": 62
+    },
+    {
+      "version": "3.36",
+      "source": "Jinhe-v3.36-source.zip",
+      "source_sha256": "be8f87107063a5dbc11abe065845a4b169db0a3e7de19610af4a6999fe2a1dc6",
+      "source_files": 299,
+      "apk": "Jinhe-v3.36.apk",
+      "apk_sha256": "2d6bd02ca6efa5994615cdb2f181d88d8965781028006a43da0c7957ce47b1f0",
+      "version_code": 63
+    },
+    {
+      "version": "3.37",
+      "source": "Jinhe-v3.37-source.zip",
+      "source_sha256": "fca6bb1efb478aaad3932ec832ac17f77b418961f8cd56ab713af8ba63b5817e",
+      "source_files": 300,
+      "apk": "Jinhe-v3.37.apk",
+      "apk_sha256": "ca56626ecc05f21861c6331c66abc814a136e9c89c9c5366dfa55603dfce4b12",
+      "version_code": 64
+    },
+    {
+      "version": "3.38",
+      "source": "Jinhe-v3.38-source.zip",
+      "source_sha256": "7dd0c48fdffc823e0375a9c4af31b35626d60a4b78950e29580fbfd13f223115",
+      "source_files": 300,
+      "apk": "Jinhe-v3.38.apk",
+      "apk_sha256": "25c17151162811794d878cb4bf721d2cc8c535bc41f5a476b948e06355800049",
+      "version_code": 65
+    },
+    {
+      "version": "3.39",
+      "source": "Jinhe-v3.39-source.zip",
+      "source_sha256": "5723cb747463a3a67ca484bd51fd7c4a62d9ce37132192a8434c3fcfb9d209c0",
+      "source_files": 304,
+      "apk": "Jinhe-v3.39.apk",
+      "apk_sha256": "f9b35935f8282e9ea89d1cef0e68a17baa8c227e39a5993dd443f713d803f953",
+      "version_code": 66
+    }
+  ],
+  "source_notes": "Privacy-cleaned source snapshots; not rebuilt or claimed bit-reproducible."
+}
