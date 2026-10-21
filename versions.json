@@ -3,6 +3,16 @@
   "archive_tag": "versions-2026-10-21",
   "versions": [
     {
+      "version": "3.40",
+      "version_code": 67,
+      "release_tag": "v3.40",
+      "source": "Jinhe-v3.40-source.zip",
+      "source_sha256": "55645fa03f5ac2b6fae81ae11f4a8614de17c89070ac8e6150a0bf603ef45df6",
+      "source_files": 310,
+      "apk": "Jinhe-v3.40.apk",
+      "apk_sha256": "3ab95be0f07000d7a99afa25b97a7419dca8bcc5205e3a6bed78bfc34342fdf7"
+    },
+    {
       "version": "1.6",
       "source": "Jinhe-v1.6-source.zip",
       "source_sha256": "c31ac4c665b0404cd67dbd64c939702a270a48d68a0dc6c6fa33e1b4f5d1d039",
@@ -325,5 +335,7 @@
       "version_code": 66
     }
   ],
-  "source_notes": "Privacy-cleaned source snapshots; not rebuilt or claimed bit-reproducible."
+  "source_notes": "Privacy-cleaned source snapshots; not rebuilt or claimed bit-reproducible.",
+  "latest_version": "3.40",
+  "latest_tag": "v3.40"
 }

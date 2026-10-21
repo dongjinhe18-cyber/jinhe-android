@@ -2,6 +2,15 @@
 
 锦禾是一款 Android 文件管理工具，将压缩解压、文件预览和常用格式转换放在同一个应用里，适合在手机和平板上整理文件、查看内容和保存副本。
 
+## 最新版本：v3.40
+
+[下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40.apk) · [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40-source.zip) · [完整更新说明](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/v3.40)
+
+- 修复暗色任务面板状态栏文字不清晰的问题。
+- 优化搜索、筛选、文件列表、多选工具条和任务卡片。
+- 调整手机文件夹过渡、宽屏目录切换与左侧导航按压反馈。
+- 改善大字体与窄屏任务按钮排布，保留快速返回和返回中重入。
+
 ## 主要功能
 
 | 功能 | 支持的操作 |
@@ -26,14 +35,15 @@
 
 ## 下载与源码
 
-Android 文件管理与压缩解压应用。此处提供 35 个版本的 APK 和 36 份源码快照。
+Android 文件管理与压缩解压应用。此处提供 36 个版本的 APK 和 37 份源码快照。
 
-[打开完整下载页](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/versions-2026-10-21)
+[打开其他版本下载页](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/versions-2026-10-21)
 
 请使用下表中的 `Jinhe-v版本-source.zip` 下载各版源码。GitHub 自动生成的 Source code 压缩包对应本仓库的版本索引。
 
 | 版本 | APK | 源码快照 |
 |---|---|---|
+| v3.40 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40-source.zip) |
 | v1.6 | 提供源码 | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/versions-2026-10-21/Jinhe-v1.6-source.zip) |
 | v3.14 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/versions-2026-10-21/Jinhe-v3.14.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/versions-2026-10-21/Jinhe-v3.14-source.zip) |
 | v3.14.1 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/versions-2026-10-21/Jinhe-v3.14.1.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/versions-2026-10-21/Jinhe-v3.14.1-source.zip) |
