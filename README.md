@@ -2,19 +2,19 @@
 
 锦禾是一款 Android 文件管理工具，将压缩解压、文件预览和常用格式转换放在同一个应用里，适合在手机和平板上整理文件、查看内容和保存副本。
 
-## 最新版本：v3.40.1
+## 最新版本：v3.41
 
-[下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40.1/Jinhe-v3.40.1.apk) · [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40.1/Jinhe-v3.40.1-source.zip) · [完整更新说明](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/v3.40.1)
+[下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41.apk) · [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41-source.zip) · [完整更新说明](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/v3.41)
 
-- 修复任务列表长下滑到边界时，面板位置跳变和底部异常空白。
-- 列表独立滚动，移除面板拖动手柄，保留关闭按钮、返回与点外部关闭。
-- 调整底部留白，普通字体和大字体均可完整查看末尾说明。
+- 目标目录支持置顶、最近使用的位置和直接新建文件夹。
+- 搜索可包含子文件夹，支持停止、重新搜索和结果定位。
+- 修复大字体下键盘遮挡目录弹窗按钮，以及取消弹窗后仍可能提交操作的问题。
 
 ## 主要功能
 
 | 功能 | 支持的操作 |
 |---|---|
-| 文件管理 | 浏览目录、搜索和排序；新建文件夹、重命名、复制、移动、删除及批量选择。 |
+| 文件管理 | 浏览目录、当前目录或子文件夹搜索、结果定位和排序；新建文件夹、重命名、复制、移动、删除及批量选择，选择目标时可使用置顶和最近目录。 |
 | 压缩与解压 | 解压 ZIP、RAR、7z、TAR、GZIP、BZIP2、XZ 等格式；查看压缩包内容、选择性解压，处理加密包和支持的分卷包。 |
 | 创建压缩包 | 创建 ZIP、7z 压缩包，设置压缩级别、密码和分卷大小，支持批量压缩及完整性校验。 |
 | 文件预览 | 查看图片、文本，播放音频和视频；PDF 支持阅读、跳页、缩略图和阅读位置记录。 |
@@ -34,7 +34,7 @@
 
 ## 下载与源码
 
-Android 文件管理与压缩解压应用。此处提供 37 个版本的 APK 和 38 份源码快照。
+Android 文件管理与压缩解压应用。此处提供 38 个版本的 APK 和 39 份源码快照。
 
 [打开其他版本下载页](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/versions-2026-10-21)
 
@@ -42,6 +42,7 @@ Android 文件管理与压缩解压应用。此处提供 37 个版本的 APK 和
 
 | 版本 | APK | 源码快照 |
 |---|---|---|
+| v3.41 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41-source.zip) |
 | v3.40.1 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40.1/Jinhe-v3.40.1.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40.1/Jinhe-v3.40.1-source.zip) |
 | v3.40 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40-source.zip) |
 | v1.6 | 提供源码 | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/versions-2026-10-21/Jinhe-v1.6-source.zip) |
