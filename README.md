@@ -2,13 +2,13 @@
 
 锦禾是一款 Android 文件管理工具，将压缩解压、文件预览和常用格式转换放在同一个应用里，适合在手机和平板上整理文件、查看内容和保存副本。
 
-## 最新版本：v3.41
+## 最新版本：v3.44
 
-[下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41.apk) · [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41-source.zip) · [完整更新说明](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/v3.41)
+[下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.44/Jinhe-v3.44.apk) · [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.44/Jinhe-v3.44-source.zip) · [完整更新说明](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/v3.44)
 
-- 目标目录支持置顶、最近使用的位置和直接新建文件夹。
-- 搜索可包含子文件夹，支持停止、重新搜索和结果定位。
-- 修复大字体下键盘遮挡目录弹窗按钮，以及取消弹窗后仍可能提交操作的问题。
+- 支持跟随系统及 20 种界面语言，完善 PDF 阅读与格式转换翻译。
+- 修复 Android 系统应用语言同步，以及切换语言后部分标签未更新的问题。
+- 重做设置页，优化大字体、深浅主题与阿拉伯语布局。
 
 ## 主要功能
 
@@ -22,6 +22,7 @@
 | 格式转换 | 图片导出为 JPG、PNG、WebP、BMP；音频导出为 WAV、M4A；视频转 MP4、提取音轨，以及文本编码转换。 |
 | 照片信息 | 读取原图中的拍摄设备、时间、快门、光圈、ISO 等 EXIF 信息；照片包含 GPS 数据时可查看位置。 |
 | 任务与密码本 | 查看后台任务进度、取消任务和打开最近结果；管理常用解压密码，支持密码本加密备份与导入。 |
+| 界面语言 | 跟随系统或手动选择 20 种界面语言，PDF/格式转换支持多语言，阿拉伯语支持从右向左布局。 |
 | 外观与大屏 | 浅色、深色和定时主题，自定义配色与壁纸范围，适配手机和平板布局。 |
 
 ## 开始使用
@@ -34,7 +35,7 @@
 
 ## 下载与源码
 
-Android 文件管理与压缩解压应用。此处提供 38 个版本的 APK 和 39 份源码快照。
+Android 文件管理与压缩解压应用。此处提供 39 个版本的 APK 和 40 份源码快照。
 
 [打开其他版本下载页](https://github.com/dongjinhe18-cyber/jinhe-android/releases/tag/versions-2026-10-21)
 
@@ -42,6 +43,7 @@ Android 文件管理与压缩解压应用。此处提供 38 个版本的 APK 和
 
 | 版本 | APK | 源码快照 |
 |---|---|---|
+| v3.44 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.44/Jinhe-v3.44.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.44/Jinhe-v3.44-source.zip) |
 | v3.41 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.41/Jinhe-v3.41-source.zip) |
 | v3.40.1 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40.1/Jinhe-v3.40.1.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40.1/Jinhe-v3.40.1-source.zip) |
 | v3.40 | [下载 APK](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40.apk) | [下载源码](https://github.com/dongjinhe18-cyber/jinhe-android/releases/download/v3.40/Jinhe-v3.40-source.zip) |
